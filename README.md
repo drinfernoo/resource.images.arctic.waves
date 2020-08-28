@@ -1,1 +1,1 @@
-# resources.images.arctic.waves
+# resource.images.arctic.waves
