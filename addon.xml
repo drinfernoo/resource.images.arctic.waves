@@ -19,8 +19,7 @@
         <news></news>
         <disclaimer></disclaimer>
         <assets>
-            <icon>resources/icon.png</icon>
-            <fanart>resources/fanart.jpg</fanart>
+            <icon>resources/31.jpg</icon>
         </assets>
     </extension>
 </addon>
